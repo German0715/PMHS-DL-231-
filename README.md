@@ -29,7 +29,7 @@ Desde el mismo nombre de archivo del registro, se puede inferir cierta informaci
 El proyecto está compuesto por carpetas principales:
 
 <!--START_SECTION:activity-->
-1. 🎉 PRO_(PMHS_DL_231): En este Jupyter notebook se encuentra toda la estructura de la metodología propuesta para el desarrollo exitoso del proyecto. En donde se 
-2. 📁 Entrenamiento de los Modelos: Un bot general básico con la clase Cliente, que trae funciones de el código 'bot_logic'.
-3. 📁 Archivos Adicionales:
+1. 🎉 PRO_(PMHS_DL_231): En este Jupyter notebook se encuentra toda la estructura de la metodología propuesta para el desarrollo exitoso del proyecto. En donde se podrá encontrar los códigos para ejecutar cada una de las etapas de este proyecto. Creado en Python, usa el formato de Jyputer Notebooks y su ejecución por celdas para crear cada una de las etaapas.
+2. 📁 Entrenamiento de los Modelos: En esta carpeta se encuentra la colección de colabs en donde se encuentra el entrenamiento de los dos modelos propuestos, junto a las pruebas con las combinaciones propuestas de datos en la base de datos.
+3. 📁 Archivos Adicionales: En esta carpeta se encuentran archivos adicionales para trabajo a futuro o trabajo previo.
 <!--END_SECTION:activity-->
